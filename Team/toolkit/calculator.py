@@ -32,3 +32,5 @@ def calculator():
 
     except ValueError:
         print("Please enter valid numbers.")
+
+        # Calculator feature developed by Mashiat
