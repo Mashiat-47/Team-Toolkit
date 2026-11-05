@@ -1,1 +1,1 @@
-Project deadline: November 10, 2026.
+Project deadline: November 8, 2026.
