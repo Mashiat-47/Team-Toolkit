@@ -14,3 +14,9 @@ I am a member of the Team Toolkit project.
 - Managing pull requests.
 - Reviewing code changes.
 - Ensuring project quality.
+
+## Project
+Team Toolkit
+
+## Project Goal
+To build a useful command-line toolkit for our team.
