@@ -1,1 +1,1 @@
-Meeting: Sunday at 10 AM
+Meeting: Sunday at 11 AM
