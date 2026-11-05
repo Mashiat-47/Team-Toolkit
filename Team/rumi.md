@@ -20,3 +20,8 @@ Team Toolkit
 
 ## Project Goal
 To build a useful command-line toolkit for our team.
+
+## Learning Goals
+- Learn Git and GitHub.
+- Understand branch management.
+- Practice pull request workflow.
